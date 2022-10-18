@@ -1,5 +1,5 @@
 # Jetson-nano 젯슨 나노 기초 교육 과정 기록
--
+
 ## 실습 진행 준비물
 ## - JETSON NANO DEVELOPER KIT(2GB or 4GB)
 ### (*참고로 작성자는 2GB 사용)
