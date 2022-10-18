@@ -4,7 +4,6 @@ Getting Started with AI on Jetson Nano
 <b> 1. 실습 진행 준비물 </b>
 <br>
 <TT> SD카드 </TT>
-<small><br>
 - JETSON NANO DEVELOPER KIT(2GB or 4GB)
   (*참고로 작성자는 2GB 사용)
 - USB Camera or CSI Camera 준비
