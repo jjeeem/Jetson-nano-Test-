@@ -5,8 +5,9 @@ Getting Started with AI on Jetson Nano
 <b> 1. 실습 진행 준비물 </b>
 <br>
 <br>
-<TT> SD카드 </TT>
-- JETSON NANO DEVELOPER KIT(2GB or 4GB)
+     SD카드
+     JETSON NANO DEVELOPER KIT(2GB or 4GB)
+
   (*참고로 작성자는 2GB 사용)
 - USB Camera or CSI Camera 준비
   (*참고 작성자는 CSI Camera → Raspberrt Pi Camera Module V2 사용
