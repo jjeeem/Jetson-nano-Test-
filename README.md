@@ -1,4 +1,4 @@
-Getting Started with AI on Jetson Nano
+<head> Getting Started with AI on Jetson Nano </head>
 <b> 젯슨 나노 기초 교육 과정 기록 </b>
 -
 <b> 1. 실습 진행 준비물 </b>
