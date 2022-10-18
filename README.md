@@ -1,5 +1,5 @@
 Getting Started with AI on Jetson Nano
-<b> 젯슨 나노 기초 교육 과정 기록 </b>
+</s> 젯슨 나노 기초 교육 과정 기록
 -
 <b> 1. 실습 진행 준비물 </b>
 <br>
